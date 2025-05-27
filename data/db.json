@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post - edited",
+      "datetime": "May 27, 2025 1:59:35 PM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nastalavista"
+    },
+    {
+      "id": "4",
+      "title": "Testing My 5th Post",
+      "datetime": "May 27, 2025 9:23:52 PM",
+      "body": "Hot springs, or hot springs onsen (温泉) in Japanese, are a deeply rooted part of Japanese culture, known for their healing properties, relaxing experience, and natural beauty. Japan, being a volcanically active country, has thousands of onsen scattered across the islands. "
+    },
+    {
+      "id": "6",
+      "title": "Bias and Variance",
+      "datetime": "May 26, 2025 7:08:02 PM",
+      "body": "The bias-variance tradeoff is a fundamental concept in machine learning and statistics that describes the balance between two types of errors that affect the performance of predictive models: bias and variance. Understanding this tradeoff is crucial for building models that generalize well to new, unseen data.\n\n"
+    },
+    {
+      "id": "61",
+      "title": "Pahalgama Attack - India",
+      "datetime": "May 26, 2025 7:09:24 PM",
+      "body": "On April 22, 2025, five heavily armed militants infiltrated the Baisaran Valley near Pahalgam in the Anantnag district of Jammu & Kashmir. Disguised in military-style uniforms and equipped with M4 carbines and AK-47s, they targeted a tourist camp in this secluded meadow, accessible only by foot or horseback. The assailants opened fire indiscriminately, resulting in the deaths of 26 individuals, predominantly Hindu tourists, and injuring several others ."
+    },
+    {
+      "id": "611",
+      "title": "BRICS - Summit",
+      "datetime": "May 27, 2025 10:20:12 AM",
+      "body": "BRICS is more than an economic bloc — it's a strategic coalition that seeks to redefine global governance, promote equitable development, and represent the collective voice of emerging economies. While it faces hurdles, its growing influence signals a shifting global power structure toward a multipolar world."
+    },
+    {
+      "id": "6111",
+      "title": "ISSF Junior World Cup",
+      "datetime": "May 27, 2025 1:19:53 PM",
+      "body": "Indian shooter Kanak secured India's first gold medal at the ISSF Junior World Cup 2025 in Suhl, Germany, by excelling in the Women's 10-meter Air Pistol final. \nGuidely\n\nIf you would like more detailed information on any of these topics or other areas such as economy, science, or international relations, feel free to ask!"
+    },
+    {
+      "id": "61111",
+      "title": "Stealth Fighter Jet Program",
+      "datetime": "May 27, 2025 1:26:58 PM",
+      "body": "India's Defense Ministry has sanctioned the development of a fifth-generation stealth fighter jet to modernize its air force amidst escalating tensions with Pakistan and China's expanding aerial capabilities. The twin-engine aircraft will be developed by the state-run Aeronautical Development Agency in collaboration with domestic defense firms. This initiative aims to reduce reliance on aging Russian aircraft and bolster indigenous defense manufacturing."
+    },
+    {
+      "id": "611111",
+      "title": "Major Judicial Reshuffle in India",
+      "datetime": "May 27, 2025 1:27:41 PM",
+      "body": "The Supreme Court collegium, led by Chief Justice B.R. Gavai, has recommended the appointment of three new Supreme Court judges and five new High Court chief justices. Additionally, the transfer of 22 High Court judges has been proposed. This marks one of the most extensive judicial reshuffles in India's history, aiming to enhance the efficiency and effectiveness of the judiciary. "
+    },
+    {
+      "id": "6111111",
+      "title": "ASEAN Summit with Gulf",
+      "datetime": "May 27, 2025 1:28:08 PM",
+      "body": "In Kuala Lumpur, the Association of Southeast Asian Nations (ASEAN) convened with the Gulf Cooperation Council (GCC) and China to strengthen economic ties amid global uncertainties and U.S. tariff threats. The summit emphasized Asia-Gulf cooperation for financial resilience and sustainable development, with China positioning itself as a reliable partner. Analysts note that ASEAN's increasing economic reliance on China could shift regional geopolitical balances."
+    },
+    {
+      "id": "61111111",
+      "title": "Pro-Democracy Protests in Mali",
+      "datetime": "May 27, 2025 1:29:51 PM",
+      "body": "Mali is witnessing significant pro-democracy protests following the government's dissolution of political parties and suspension of political activities. Citizens are demanding democratic reforms and an end to military rule. International organizations have condemned the government's actions, highlighting concerns over."
+    },
+    {
+      "id": "611111111",
+      "title": "India - World’s 4th Largest Economy",
+      "datetime": "May 27, 2025 2:02:20 PM",
+      "body": "India has surpassed Japan to become the world's fourth-largest economy by nominal GDP. With a current GDP of $4.3 trillion, India is projected to overtake Germany by 2028, positioning itself as the third-largest global economy. This growth underscores India's expanding economic influence on the world stage."
+    },
+    {
+      "id": "6111111111",
+      "title": "India–Pakistan Heat Wave - 2025",
+      "datetime": "May 27, 2025 9:23:10 PM",
+      "body": "A severe heat wave has affected both India and Pakistan since early April, with temperatures reaching 5-8°C above seasonal norms. Meteorological agencies warn that the abnormal heat may persist longer than typical seasonal patterns, posing significant health risks."
+    }
+  ]
+}
